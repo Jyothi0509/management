@@ -1,2 +1,1 @@
-# java
-this is my first git repo
+# hr_portal
